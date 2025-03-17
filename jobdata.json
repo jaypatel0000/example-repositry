@@ -1,0 +1,42 @@
+{
+    "featuredJobs": [
+      {
+        "id": 1,
+        "title": "Full Stack Developer",
+        "company": "Tech Innovators",
+        "location": "San Francisco, CA",
+        "skills": ["JavaScript", "React", "Node.js", "MongoDB"],
+        "description": "We are looking for an experienced Full Stack Developer to join our innovative team. You will be responsible for designing and implementing web applications, ensuring the responsiveness of applications, and collaborating with the development team.",
+        "applyLink": "https://example.com/full-stack-developer"
+      },
+      {
+        "id": 2,
+        "title": "Software Developer",
+        "company": "Tech Innovators",
+        "location": "Toonto, CA",
+        "skills": ["JavaScript", "HTML", "Node.js", "CSS"],
+        "description": "We are looking for an experienced Software Developer to join our innovative team. You will be responsible for designing and implementing web applications, ensuring the responsiveness of applications, and collaborating with the development team.",
+        "applyLink": "https://example.com/sofware-developer"
+      },
+      {
+        "id": 3,
+        "title": "Mobile App Developer",
+        "company": "Mobile Solutions Co.",
+        "location": "New York, NY",
+        "skills": ["Swift", "Java", "React Native", "iOS", "Android"],
+        "description": "Join our dynamic team as a Mobile App Developer and contribute to the development of cutting-edge mobile applications. You will be responsible for building high-quality, innovative, and fully performing software in compliance with coding standards and technical design.",
+        "applyLink": "https://example.com/mobile-app-developer"
+      },
+      {
+        "id": 4,
+        "title": "Data Scientist",
+        "company": "Data Insights Corp.",
+        "location": "Seattle, WA",
+        "skills": ["Python", "Machine Learning", "Data Analysis", "SQL"],
+        "description": "Exciting opportunity for a Data Scientist to join our analytics team. You will work on data modeling, machine learning, and statistical analysis to extract insights and support decision-making. Apply now to be part of a data-driven organization!",
+        "applyLink": "https://example.com/data-scientist"
+      }
+     
+    ]
+  }
+  
